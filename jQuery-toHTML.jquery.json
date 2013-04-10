@@ -1,0 +1,26 @@
+{
+    "name": "toHTML",
+	"title": "jQuery toHTML",
+	"description": "Plugin to convert a jQuery object into an HTML string",
+	"keywords": [
+        "convert",
+		"html",
+		"string"
+	],
+	"version": "0.1.1",
+	"author": {
+		"name": "mgibeau",
+		"url": "https://github.com/mgibeau"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://raw.github.com/mgibeau/jquery-tohtml/master/MIT-LICENSE.txt"
+		}
+	],
+	"bugs": "https://github.com/mgibeau/jQuery-toHTML/issues",
+	"homepage": "https://github.com/mgibeau/jQuery-toHTML",
+	"dependencies": {
+		"jquery": ">=1.4.4"
+	}
+}

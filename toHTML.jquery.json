@@ -3,7 +3,7 @@
 	"title": "jQuery toHTML",
 	"description": "Plugin to convert a jQuery object into an HTML string",
 	"keywords": [
-        "convert",
+	"convert",
 		"html",
 		"string"
 	],

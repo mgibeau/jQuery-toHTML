@@ -2,7 +2,7 @@
  * jQuery toHTML
  *
  * @fileoverview
- * @link https://github.com/maxjbo/jquery-tohtml
+ * @link https://github.com/mgibeau/jquery-tohtml
  * @author Maxime Gibeau
  * @version 0.1.1
  * @requires jQuery 1.4.4+
